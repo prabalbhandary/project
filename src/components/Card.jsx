@@ -108,124 +108,124 @@ const Card = () => {
       description: "This prebuilt robot enables you to extract details from a job posting on Glassdoor",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 16",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ecb3e293-583a-4349-b7ff-a3c86e17c79f_upwork%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job postings list from Upwork",
+      description: "This prebuilt robot will extract list of job postings from an Upwork search URL",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 17",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ecb3e293-583a-4349-b7ff-a3c86e17c79f_upwork%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract details from an Upwork job posting",
+      description: "Extract data from a job details page on UpWork and download it as a spreadsheed, save it on Google Sheets or Airtable or flow the data to Zapier to create custom workflows",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 18",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/e71653c5-9354-46d3-835f-9ca0ec50e214_Flexjobs%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job postings list from FlexJobs",
+      description: "With this prebuilt robot, you can extract a list of job postings by just providing a search URL from Flexjobs and download the data without the need to write custom code",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 19",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/e71653c5-9354-46d3-835f-9ca0ec50e214_Flexjobs%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job posting details from FlexJobs",
+      description: "This prebuilt robot enables you to download data from a job posting on FlexJobs and download it as a spreadsheet or save it in Google Sheets or Airtable alongside our other integrations",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 20",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/0cf2cd81-ce56-4170-a2e5-b919ee4c4c48_SEEK%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job postings list from SEEK",
+      description: "Extract job postings list from Seek.com and automate your workflow.",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 21",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/0cf2cd81-ce56-4170-a2e5-b919ee4c4c48_SEEK%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job posting details from Seek.com",
+      description: "This prebuilt robot extracts job posting details from Seek.com automatically",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 22",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/b2eb6e8e-5c21-4013-b6ba-9f47f105304a_RemoteOK%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job postings list from RemoteOK",
+      description: "Extract jobs list from a RemoteOK search page with No-Code",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 23",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/b2eb6e8e-5c21-4013-b6ba-9f47f105304a_RemoteOK%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job postings details from RemoteOK",
+      description: "This prebuilt robot extracts job posting details from a job posting URL on RemoteOK. You can download this data as a spreadsheet or save it on Google Sheets or Airtable",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 24",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/1213108f-8cd0-490d-8fdd-e74f8b9babab_Clutch%40full.png?auto=compress,format&rect=0,0,400,400&w=40&h=40",
+      title: "Extract Companies Info from Clutch",
+      description: "This prebuilt robot extracts list of companies from a category page on Clutch.co",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 25",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ca296955-e2d5-4269-b0c2-2c479473fdc3_Capterra%40full.png?auto=compress,format&rect=0,0,500,500&w=40&h=40",
+      title: "Extract Software list from Capterra.ca",
+      description: "This prebuilt robot enables you to extract software list from a Capterra category without writing a single line of code",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 26",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/afe6cd4d-6a63-4252-ad90-0295cdcbda3d_ebay%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract Products list from eBay",
+      description: "This prebuilt robot extracts products list from eBay with only few clicks without writing a single line of code",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 27",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/dd655796-93a3-4982-8f07-6ebc2023551f_tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png?auto=compress,format&rect=0,0,300,300&w=40&h=40",
+      title: "Extract TikTok Video information and comments",
+      description: "This prebuilt robot extracts data like description, author, comments & more from a video on TikTok",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 28",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/dd655796-93a3-4982-8f07-6ebc2023551f_tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png?auto=compress,format&rect=0,0,300,300&w=40&h=40",
+      title: "Extract account info and videos from a TikTok Account",
+      description: "This prebuilt robot extracts account info and videos from a TikTok account",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 29",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/a746d0a0-e31e-4f4a-95ac-10c43a23b7d1_642-6422341_kami-for-chrome-google-chrome-store-logo.png?auto=compress,format&rect=50,0,996,996&w=40&h=40",
+      title: "Extract Extension info from Chrome Web Store",
+      description: "This prebuilt robot will extract infpormation from an extension page on Chrome Web Store",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 30",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/a746d0a0-e31e-4f4a-95ac-10c43a23b7d1_642-6422341_kami-for-chrome-google-chrome-store-logo.png?auto=compress,format&rect=50,0,996,996&w=40&h=40",
+      title: "Extract Extension reviews from Chrome Web Store",
+      description: "This prebuilt robot will extract reviews from an extension's page on Chrome Web Store",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 31",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/dd655796-93a3-4982-8f07-6ebc2023551f_tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png?auto=compress,format&rect=0,0,300,300&w=40&h=40",
+      title: "Extract TikTok videos from a hashtag",
+      description: "This prebuilt robot extracts videos from TikTok based a hashtag",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 32",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/1a728169-4e64-4efd-8ff1-039f8f467148_google%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract Google Search results  by country",
+      description: "This prebuild robot extracts Google search results for a keyword from a selected country",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 33",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/aa946e63-bc79-4046-ad78-9850f631797f_reddit%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract posts from Reddit search",
+      description: "This prebuilt robot searches for a specific keyword on Reddit and extracts the related posts",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 34",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/b69e12d2-857f-4d0a-af98-e354fbc26556_Google_Translate_logo.svg.png?auto=compress,format&rect=0,0,400,400&w=40&h=40",
+      title: "Translate Text using Google Trabslate",
+      description: "This prebuilt robot enables you to automatically and send translated text to your Google Sheet or receive it using Browse AP API & Webhooks",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 35",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/6ee19214-3bc0-40e9-b3c2-002dd0c2ecb8_Screenshot+2023-04-06+at+8.06.23+PM.png?auto=compress,format&rect=0,0,522,522&w=40&h=40",
+      title: "Extract products list from AppSumo",
+      description: "This prebuilt robot extracts products from AppSumo collection or category link",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 36",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/6ee19214-3bc0-40e9-b3c2-002dd0c2ecb8_Screenshot+2023-04-06+at+8.06.23+PM.png?auto=compress,format&rect=0,0,522,522&w=40&h=40",
+      title: "Extract product reviews from AppSumo",
+      description: "This prebuilt robot extracts product reviews from an app listed on AppSumo",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 37",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/2daf46ae-9627-4cf0-a7b0-29472b6afd2f_lndeed%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job posting details from a job URL on Indeed",
+      description: "This prebuilt robot extracts job posting details from a URL on Indeed.com",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 38",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/1a728169-4e64-4efd-8ff1-039f8f467148_google%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract related search keywords by doing search on Google",
+      description: "This prebuilt robot searches for your primary keyword on Google and extracts related searches listed at the bottom of the page",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 39",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/0f942303-6026-4fb6-9966-c501d6a1627a_linkedin%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract list of job postings from a LinkedIn search URL",
+      description: "With this Prebuilt Robot, you can extract ",
     },
     {
       imgSrc: "https://via.placeholder.com/150", // Placeholder image
@@ -745,7 +745,7 @@ const Card = () => {
   ];
 
   return (
-    <div className="grid grid-cols-4 gap-4">
+    <div className="grid grid-cols-4 gap-4 sm:grid-cols-2 sm:gap-2">
       {cards.map((card, index) => (
         <div className="hover:cursor-pointer">
             <SingleCard key={index} {...card} />
