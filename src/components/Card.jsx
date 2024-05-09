@@ -225,26 +225,26 @@ const Card = () => {
     {
       imgSrc: "https://images.prismic.io/browseai/0f942303-6026-4fb6-9966-c501d6a1627a_linkedin%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
       title: "Extract list of job postings from a LinkedIn search URL",
-      description: "With this Prebuilt Robot, you can extract ",
+      description: "With this Prebuilt Robot, you can extract job listings from a job search URL on LinkedIn",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 40",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/2daf46ae-9627-4cf0-a7b0-29472b6afd2f_lndeed%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract list of job postings from a search URL on Indeed",
+      description: "Extract list of job postings from a search URL on Indeed.com",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 41",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/4aaed1c8-d412-42bd-a5bc-6c3aff9779f0_DuckDuckGo%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract DuckDuckGo Search Results",
+      description: "Search anything from DuckDuckGo without and extract the data",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 42",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/0f942303-6026-4fb6-9966-c501d6a1627a_linkedin%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract job posting details from a LinkedIn",
+      description: "With this Prebuilt Robot, yo can extract job posting details from LinkedIn",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 43",
+      imgSrc: "https://images.prismic.io/browseai/ca296955-e2d5-4269-b0c2-2c479473fdc3_Capterra%40full.png?auto=compress,format&rect=0,0,500,500&w=40&h=40",
+      title: "Extract software list from a Capterra.com category",
       description: "This is the description for card 8.",
     },
     {
