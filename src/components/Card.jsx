@@ -745,13 +745,13 @@ const Card = () => {
   ];
 
   return (
-    <div className="grid grid-cols-4 gap-4 sm:grid-cols-2 sm:gap-2">
-      {cards.map((card, index) => (
-        <div className="hover:cursor-pointer">
-            <SingleCard key={index} {...card} />
-        </div>
-      ))}
+    <div className="grid grid-cols-2 gap-4 sm:grid-cols-4 sm:gap-2">
+  {cards.map((card, index) => (
+    <div key={index} className="">
+      <SingleCard {...card} />
     </div>
+  ))}
+</div>
   );
 };
 
