@@ -8,7 +8,7 @@ const Content = () => {
   return (
     <div className="flex bg-gray-100 p-6">
       <div className="w-1/4 bg-white p-4 rounded-md shadow-md">
-        <h1 className="text-2xl font-bold mb-4">Prebuilts Robots</h1>
+        <h1 className="text-2xl mb-4">Prebuilts Robots</h1>
         
         <div className="flex flex-col">
           <div className="mb-4">
