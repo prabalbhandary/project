@@ -852,34 +852,34 @@ const Card = () => {
       description: "Retrieve and organize search results  from Investing.com on various financial topics like markets and cryptocurrencies, enabling efficien data-driven research and real-time monitoring",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 129",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8Jq0aI3ufuUPXp_compass.com.jpeg?auto=format%2Ccompress&w=40&h=40",
+      title: "Extract List of Properties from Compass",
+      description: "Scrape and analyze real estate listings from Compass, capturing details like prices, locations, and property specifications to aid in the market analysis, investment scouting, and competitive assessments",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 130",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8Jq0aI3ufuUPXp_compass.com.jpeg?auto=format%2Ccompress&w=40&h=40",
+      title: "Extract Property Details from Compass",
+      description: "Access detailed propeerty information from Compass, including addresses, sale prices, and specifications, to support property analysis, investment management, and market appraisals efficiently",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 131",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8KL0aI3ufuUPXr_bbb.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract the Details of a Business on BBB",
+      description: "Retrive comprehensive profiles, ratings and reviews of businesses from BBB.org, aiding in verification, marget insight, and risk assessment",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 132",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8KL0aI3ufuUPXr_bbb.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract the Reviews of a Business on BBB",
+      description: "Access customer reviews and business responses from BBB.org, supporting reputation management, customer experience enhancement, and sentiment analysis",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 133",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8L8UaI3ufuUPXy_yell.com.png?auto=format%2Ccompress&rect=0%2C0%2C225%2C225&w=40&h=40",
+      title: "Extract Business from a Search on Yell.com",
+      description: "Automatically scrape and collect business information from Yell.com for market research, lead generation, or competitor analysis, streamlining your data-driven strategies",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 134",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8L8UaI3ufuUPXy_yell.com.png?auto=format%2Ccompress&rect=0%2C0%2C225%2C225&w=40&h=40",
+      title: "Extract the Details of a Business on Yell.com",
+      description: "Automatically scrape and collect business information from Yell.com for market research, lead generation, or competitor analysis, streamlining your data-driven strategies",
     },
     {
       imgSrc: "https://via.placeholder.com/150", // Placeholder image
