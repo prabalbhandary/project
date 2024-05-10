@@ -732,39 +732,39 @@ const Card = () => {
         "Extract Companies from the startup directory, sorted by Launch Date (most recent first)",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 105",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZepFcHUurf2G3NDO_google-news.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Articles by Keyword  from Google News",
+      description: "Retrieve news articles related to specific keywords from Google News, providing a comprehensive list of current news coverage on the topic",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 106",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZepFcHUurf2G3NDO_google-news.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Articles by Topic from Google News",
+      description: "Gather News Articles from a selected topic on Google News, offering a curated list of news stories relevant to the chosen subject matter",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 107",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZepFcHUurf2G3NDO_google-news.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Top Stories from Google News Homepage",
+      description: "Collect the top stories and additional news items featured on the Google News homepage, ensuring access to the most current and prominent news highlights",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 108",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ebbc2026-d5d4-406a-89d8-983b0a2a97c7_coinmarketcap-logo-4378FC5465-seeklogo.com.png?auto=compress,format&rect=0,0,295,295&w=40&h=40",
+      title: "Extract Single Crypto Coin Dtetails from CoinMarketCap",
+      description: "Retrieve detailed information about a specific cryptocurrency from CoinMarketCap, including its current price, market cap, vollume, and historical data",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 109",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ebbc2026-d5d4-406a-89d8-983b0a2a97c7_coinmarketcap-logo-4378FC5465-seeklogo.com.png?auto=compress,format&rect=0,0,295,295&w=40&h=40",
+      title: "Extract Coin Details by Category from CoinMarketCap",
+      description: "Gather detailed information for cryptocurrencies within a specific category on CoinMarketCap, such as DeFi or NFTs, including price, marketcap, and volume",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 110",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo_NXUurf2G3NB9_taaft.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Tool Details from There's An AI for That",
+      description: "Extract detailed information about a specific AI tool listened on 'There's An AI for That', including its features, capabilities, and use cases",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 111",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo_NXUurf2G3NB9_taaft.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Tools by Keyword from There's An AI for That",
+      description: "Search for and extracts AI tools from 'There's An AI for That' based on specific keywords, ",
     },
     {
       imgSrc: "https://via.placeholder.com/150", // Placeholder image
@@ -924,9 +924,9 @@ const Card = () => {
   ];
 
   return (
-    <div className="grid grid-cols-2 gap-4 sm:grid-cols-4 sm:gap-2">
+    <div className="grid lg:grid-cols-4 md:grid-cols-2 md:gap-2 sm:grid-cols-1 sm:gap-1">
       {cards.map((card, index) => (
-        <div key={index} className="">
+        <div key={index} className="hover:cursor-pointer">
           <SingleCard {...card} />
         </div>
       ))}
