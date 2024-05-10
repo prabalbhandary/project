@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Subscribe2 = () => {
   return (
@@ -22,7 +22,7 @@ const Subscribe2 = () => {
           </div>
           <button
             type="submit"
-            className="bg-purple-600 text-white px-6 py-3 rounded-lg hover:bg-purple-800 transition duration-300"
+            className="bg-purple-600 text-white p-2 rounded transition duration-300 hover:bg-purple-700"
           >
             Subscribe to Newsletter
           </button>
