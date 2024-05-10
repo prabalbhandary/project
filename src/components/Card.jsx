@@ -764,92 +764,92 @@ const Card = () => {
     {
       imgSrc: "https://images.prismic.io/browseai/Zeo_NXUurf2G3NB9_taaft.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
       title: "Extract Tools by Keyword from There's An AI for That",
-      description: "Search for and extracts AI tools from 'There's An AI for That' based on specific keywords, ",
+      description: "Search for and extracts AI tools from 'There's An AI for That' based on specific keywords, facilitating the discovery of tools relevant to users' needs",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 112",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo_NXUurf2G3NB9_taaft.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Most Saved Tools from There's An AI for That",
+      description: "Gather a list of the most saved or bookmarked AI tools on 'There's An AI for That', indicating popular and highly regarded solutions in the AI space",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 113",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo_NXUurf2G3NB9_taaft.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Newest Tools from There's An AI for That",
+      description: "Retrieve a list of the latest AI tools added to 'There's An AI for That', keeping users informed about the newest innovations in AI technology",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 114",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo-RHUurf2G3NBs_futuretools.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Etract Tools by Keyword from Future Tools",
+      description: "Search for and extracts tools from Future Tools using specific keywords, helping users find innovative tools that match their interests or requirements",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 115",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo-RHUurf2G3NBs_futuretools.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Tool Details from Future Tools",
+      description: "Retrived detailed information about a specific tool listed on Future Tools, encompassing its functionalities, benefits, and application areas",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 116",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo8eHUurf2G3NBY_udemy.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Course Reviews from Udemy",
+      description: "Gather reviews for a specific course on Udemy, providing insights into the learners' experiences and the course's overall quality and effectiveness",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 117",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo8eHUurf2G3NBY_udemy.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Course Details from Udemy",
+      description: "Retrived detailed information about the course on Udemy, including its syllabus, instructor details, duration, and student reviews",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 118",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo8eHUurf2G3NBY_udemy.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Courses by Topic from Udemy",
+      description: "Compile a list of courses from Udemy related to a specific topic, offering learners options to explore educational content in their areas of intrest",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 119",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/9e08ead7-a063-4439-994f-319f98cbb7a8_ycombinator%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract News Items by Keyword from Hacker News",
+      description: "Search for and extract news items from Hacker News based on specific keywords, ensuringg access to relevant discussions and articles in the tech and startup comunities",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 120",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/9e08ead7-a063-4439-994f-319f98cbb7a8_ycombinator%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract News Items from Hacker News",
+      description: "Retrieve a comprehensive list of the latest news items posted on Hacker News, providing a snapshot of current trends and discussions in the technology sector",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 121",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/9e08ead7-a063-4439-994f-319f98cbb7a8_ycombinator%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract Company Details from Y Combinator",
+      description: "Gather detailed information about a specific company within the Y Combinator ecosystem, including its business model, funding status, and key achievements",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 122",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo7CXUurf2G3NAr_trustpilot.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Company Details from Trustpilot",
+      description: "Retrived detailed information about a company listed on TRustpilot, including its overall rating, customer reviews, and service quality insights",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 123",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo7CXUurf2G3NAr_trustpilot.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Companies by Category from Trustpilot",
+      description: "Compile a list of companies from a specific category on Trustpilot, facilitating the exploration of businesses based on industry or service type",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 124",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zeo7CXUurf2G3NAr_trustpilot.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
+      title: "Extract Company Reviews from Trustpilot",
+      description: "Gather customer reviews for a specific company on Trustpilot, providing valuable feedback and insights into the company's customer satisfaction levels",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 125",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/9e08ead7-a063-4439-994f-319f98cbb7a8_ycombinator%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract Job Postings from Y Combinator",
+      description: "Retrieve a list of current job iopenings posted by startups and tech companies in the Y Combinator network, offering opportunities to work with innovative and growing businesses",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 126",
-      description: "This is the description for card 8.",
+      imgSrc: "data:image/png;base64,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",
+      title: "Extract Market Indices from Investing.com",
+      description: "Scrapee and scyn real-time data on global stock market indices from Investing.com, facilitating advanced market tracking and investment decision-making",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 127",
-      description: "This is the description for card 8.",
+      imgSrc: "data:image/png;base64,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",
+      title: "Extract Single Index Details from Investing.com",
+      description: "Automate the extraction of details from any major index on Investing.com. Ideal for real-time maret tracking, stratefizing investments, and keeping stakeholders informed",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 128",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/Zh8I6UaI3ufuUPXm_investing.com.png?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract Search Results from Investing.com",
+      description: "Retrieve and organize search results  from Investing.com on various financial topics like markets and cryptocurrencies, enabling efficien data-driven research and real-time monitoring",
     },
     {
       imgSrc: "https://via.placeholder.com/150", // Placeholder image
