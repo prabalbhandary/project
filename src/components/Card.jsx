@@ -882,14 +882,14 @@ const Card = () => {
       description: "Automatically scrape and collect business information from Yell.com for market research, lead generation, or competitor analysis, streamlining your data-driven strategies",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 135",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZiMBuvPdc1huKppZ_workable.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract Search Results from Workable",
+      description: "Scrape current job listings from Workable to understand job market trends, aiding in smarter, data-driven recruitment and workforce planning strategies",
     },
     {
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image
-      title: "Card 136",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZiMBuvPdc1huKppZ_workable.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract Job Post Details on Workable",
+      description: "Gather essential data from job listings on Workable, enabling analysis of hiring trends, competitor offers,",
     },
     {
       imgSrc: "https://via.placeholder.com/150", // Placeholder image
