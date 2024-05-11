@@ -23,21 +23,18 @@ const Header = () => {
     <>
       <header className="bg-white text-black py-4 px-6 fixed top-0 w-full z-50 shadow-lg">
         <div className="container mx-auto flex justify-between items-center">
-          {/* Logo */}
           <div className="flex items-center space-x-4">
             <a href="/">
               <img src={Logo} alt="Logo" className="w-45 h-12 hover:cursor-pointer" />
             </a>
           </div>
 
-          {/* Hamburger Icon for small screens */}
           <div className="md:hidden">
             <button className="text-2xl" onClick={toggleMenuOpen}>
               {menuOpen ? <RiCloseLine /> : <RiMenu3Fill />}
             </button>
           </div>
 
-          {/* Menu for large screens */}
           <div className="hidden md:flex space-x-6 items-center">
             <ul className="flex space-x-6 text-lg">
               <li className="hover:bg-gray-100 cursor-pointer">Prebuilt Robots</li>
@@ -88,7 +85,6 @@ const Header = () => {
             </ul>
           </div>
 
-          {/* Buttons for large screens */}
           <div className="hidden md:flex space-x-4">
             <button className="border border-purple-500 bg-white text-purple-600 hover:bg-white px-4 py-2 rounded transition duration-200">
               Login
@@ -98,7 +94,6 @@ const Header = () => {
             </button>
           </div>
 
-          {/* Menu and buttons for small screens */}
           <div className={`absolute top-16 left-0 right-0 bg-white shadow-lg md:hidden ${menuOpen ? 'block' : 'hidden'}`}>
             <div className="flex flex-col space-y-4 p-4">
               <div className="flex space-x-4">
@@ -139,7 +134,6 @@ const Header = () => {
         </div>
       </header>
 
-      {/* Padding to ensure header doesn't overlap content */}
       <div className="pt-16" />
     </>
   );
