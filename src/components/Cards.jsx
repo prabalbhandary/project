@@ -216,7 +216,7 @@ const cards = [
     {
       imgSrc:
         "https://images.prismic.io/browseai/1a728169-4e64-4efd-8ff1-039f8f467148_google%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
-      title: "Extract Google Search results  by country",
+      title: "Extract Google Search results  by Country",
       description:
         "This prebuild robot extracts Google search results for a keyword from a selected country",
     },
@@ -230,7 +230,7 @@ const cards = [
     {
       imgSrc:
         "https://images.prismic.io/browseai/b69e12d2-857f-4d0a-af98-e354fbc26556_Google_Translate_logo.svg.png?auto=compress,format&rect=0,0,400,400&w=40&h=40",
-      title: "Translate Text using Google Trabslate",
+      title: "Translate Text using Google Translate",
       description:
         "This prebuilt robot enables you to automatically and send translated text to your Google Sheet or receive it using Browse AP API & Webhooks",
     },
@@ -480,6 +480,11 @@ const cards = [
         "Scrape search results from Google Scholar and monitor a search keyword for changes",
     },
     {
+      imgSrc: "https://images.prismic.io/browseai/d8b288c9-93b3-43fa-9a50-f2691a9d7329_youtube%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
+      title: "Extract Video Info from Youtube",
+      description: "Scrape Video Info from Youtube",
+    },
+    {
       imgSrc:
         "https://images.prismic.io/browseai/e17e1d56-3a72-479a-a163-1058700bc90f_Medium%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
       title: "Extract Top Posts from Medium",
@@ -708,7 +713,7 @@ const cards = [
     {
       imgSrc:
         "https://images.prismic.io/browseai/d73cd244-2713-4af5-ad27-ef9f48855d12_pinterest%40full.png?auto=compress,format&rect=0,0,800,800&w=40&h=40",
-      title: "EXtract Profile from Pinterest",
+      title: "Extract Profile from Pinterest",
       description: "Gain insightful information from any Pinterest Profile",
     },
     {
@@ -735,7 +740,7 @@ const cards = [
     },
     {
       imgSrc: "https://images.prismic.io/browseai/ebbc2026-d5d4-406a-89d8-983b0a2a97c7_coinmarketcap-logo-4378FC5465-seeklogo.com.png?auto=compress,format&rect=0,0,295,295&w=40&h=40",
-      title: "Extract Single Crypto Coin Dtetails from CoinMarketCap",
+      title: "Extract Single Crypto Coin Details from CoinMarketCap",
       description: "Retrieve detailed information about a specific cryptocurrency from CoinMarketCap, including its current price, market cap, vollume, and historical data",
     },
     {
@@ -765,7 +770,7 @@ const cards = [
     },
     {
       imgSrc: "https://images.prismic.io/browseai/Zeo-RHUurf2G3NBs_futuretools.png?auto=format%2Ccompress&rect=0%2C0%2C566%2C566&w=40&h=40",
-      title: "Etract Tools by Keyword from Future Tools",
+      title: "Extract Tools by Keyword from Future Tools",
       description: "Search for and extracts tools from Future Tools using specific keywords, helping users find innovative tools that match their interests or requirements",
     },
     {
@@ -850,6 +855,11 @@ const cards = [
     },
     {
       imgSrc: "https://images.prismic.io/browseai/Zh8KL0aI3ufuUPXr_bbb.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
+      title: "Extract Businesses from Keyword Search on BBB",
+      description: "Extract business data from BBB.org based on keyword searches, providing insights into business reliability, customer satisfaction, and accreditation status for effective market research and competitor analysis",
+    },
+    {
+      imgSrc: "https://images.prismic.io/browseai/Zh8KL0aI3ufuUPXr_bbb.jpeg?auto=format%2Ccompress&rect=0%2C0%2C400%2C400&w=40&h=40",
       title: "Extract the Details of a Business on BBB",
       description: "Retrive comprehensive profiles, ratings and reviews of businesses from BBB.org, aiding in verification, marget insight, and risk assessment",
     },
@@ -899,14 +909,9 @@ const cards = [
       description: "Scrape Medium profiles to analyze popular stories, follower counts, and content trends, helping writers and maeketers fine-tune their strategies to better engage with audience with audiences and find potential collaboration opportunities",
     },
     {
-      imgSrc: "https://via.placeholder.com/150",
-      title: "Card 141",
-      description: "This is the description for card 8.",
-    },
-    {
-      imgSrc: "https://via.placeholder.com/150",
-      title: "Card 142",
-      description: "This is the description for card 8.",
+      imgSrc: "https://images.prismic.io/browseai/ZjLaREMTzAJOCetF_substack.png?auto=format%2Ccompress&rect=0%2C0%2C1000%2C1000&w=40&h=40",
+      title: "Extract Stories from Substack Publication Archive",
+      description: "Unlock valuable insights from Substack'spublication archives to analyze content trends, reader engagement, and strategize effectively. Ideal for contet creators and marketers",
     },
   ];
 export default cards
